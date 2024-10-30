@@ -1,0 +1,6 @@
+/* CSS for hiding the minimum/maximum fields based on checkboxes */
+#mmow_minimum_order_fields,
+#mmow_maximum_order_fields {
+    display: none;
+    margin-top: 15px;
+}
